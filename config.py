@@ -1,0 +1,1 @@
+INAOE_DATASET_DIR = '/home/abian/Data/Dataset/GTMA/DiabeticFootDataset/INAOE/Data/'
