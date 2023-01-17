@@ -26,14 +26,14 @@ git clone --recurse-submodules [repository url]
 
 If you find our library useful in your research, please consider citing us:
 ```
-@article{tmp,
-  author={Hernandez-Guedes, Abian and Arteaga-Marrero, Natalia and Villa, Enrique and Callico, Gustavo M. and Ruiz-Alzola, Juan},
-  journal={Sensors}, 
-  title={Feature Ranking by Variational dropout for Classification Using Thermograms from Diabetic Foot Ulcers}, 
+@article{hernandez2023feature,
+  title={Feature Ranking by Variational Dropout for Classification Using Thermograms from Diabetic Foot Ulcers},
+  author={Hernandez-Guedes, Abian and Arteaga-Marrero, Natalia and Villa, Enrique and Callico, Gustavo M and Ruiz-Alzola, Juan},
+  journal={Sensors},
+  volume={23},
+  number={2},
+  pages={757},
   year={2023},
-  volume={},
-  number={},
-  pages={},
-  doi={}
+  publisher={Multidisciplinary Digital Publishing Institute}
 }
 ```
